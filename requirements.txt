@@ -1,7 +1,8 @@
 streamlit
-plotly
 pandas
 numpy
-fpdf2
+plotly
+fpdf
 openpyxl
-kaleido
+matplotlib
+statsmodels
